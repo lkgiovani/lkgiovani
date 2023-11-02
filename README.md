@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   </a>
   <img width="12" />  
   <a  href="https://expressjs.com"  target="_blank"  rel="noreferrer">  
-    <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"  alt="express"  width="40"  height="40"/>  
+    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"  alt="express"  width="40"  height="40"/>  
   </a>
   <img width="12" />
   <a  href="https://www.w3.org/html/"  target="_blank"  rel="noreferrer">  
