@@ -2,15 +2,15 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+## About me :mortar_board:
+	- 🌎 Brazilian man
+	- 📈 20 years old
+	- 📚 Analysis and Systems Development student
+	- 🔭 I’m working as full-stack developer
 
 ###
 
-<p align="left">I'm from Brazil 🇧🇷<br><br>- 🔭 I’m working as full-stack developer <br> - 📚 I'm currently learning Analysis and Systems Development <br></p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
+## What I know :computer:
 
 ###
 <p  align="left">
