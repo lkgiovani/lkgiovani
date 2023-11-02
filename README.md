@@ -64,11 +64,7 @@
 </p>
 
 ###
-<div>
-	<h3 align="left">🔥   My Stats :</h3>
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lkgiovani&show_icons=true&theme=dracula" />
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkgiovani&layout=compact&langs_count=16&theme=dracula" />
-</div>
+
 
 
 
