@@ -23,19 +23,23 @@
   </a>
   <img width="12" />
   <a  href="https://nodejs.org"  target="_blank"  rel="noreferrer">  
-    <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"  alt="nodejs"  width="40"  height="40"/>  
-  </a>
-  <img width="12" />
-  <a  href="https://reactjs.org/"  target="_blank"  rel="noreferrer">  
-    <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"  alt="react"  width="40"  height="40"/>  
+    <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"  alt="nodejs"  width="40"  height="40"/>  
   </a>
   <img width="12" />  
   <a  href="https://expressjs.com"  target="_blank"  rel="noreferrer">  
     <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"  alt="express"  width="40"  height="40"/>  
   </a>
+  <img width="12" />
+  <a  href="https://reactjs.org/"  target="_blank"  rel="noreferrer">  
+    <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"  alt="react"  width="40"  height="40"/>  
+  </a>
+   <img width="12" />
+  <a  href="https://nextjs.org/"  target="_blank"  rel="noreferrer">  
+    <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"  alt="nextjs"  width="40"  height="40"/>  
+  </a>
   <img width="12" />  
   <a  href="https://www.mysql.com/"  target="_blank"  rel="noreferrer"> 
-    <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"  alt="mysql"  width="40"  height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"  alt="mysql"  width="40"  height="40"/> 
   </a>
   <img width="12" /> 
   <a  href="https://www.postgresql.org"  target="_blank"  rel="noreferrer">  
@@ -47,11 +51,11 @@
   </a>
   <img width="12" />
   <a  href="https://www.w3.org/html/"  target="_blank"  rel="noreferrer">  
-    <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"  alt="html5"  width="40"  height="40"/>
+    <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"  alt="html5"  width="40"  height="40"/>
   </a>
   <img width="12" />
   <a  href="https://www.w3.org/html/"  target="_blank"  rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3"  width="40"  height="40"  />
   </a>
   <img width="12" />    
   <a  href="https://tailwindcss.com/"  target="_blank"  rel="noreferrer">  
@@ -66,9 +70,11 @@
 ###
 
 <div>
-	<h3 align="left">🔥   My Stats :</h3>
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lkgiovani&show_icons=true&theme=dracula" />
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkgiovani&layout=compact&langs_count=16&theme=dracula" />
+    <h3 align="left">🔥   My Stats :</h3>
+    <div align="center">
+       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lkgiovani&show_icons=true&theme=dracula" />
+       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkgiovani&layout=compact&langs_count=16&theme=dracula" />
+    </div>	
 </div>
 
 ###
