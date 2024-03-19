@@ -5,7 +5,7 @@
 ## About me :mortar_board:
 	- 🌎 Brazilian man
 	- 📈 20 years old
-	- 📚 Analysis and Systems Development student
+	- 📚 Analysis and Systems Development
 	- 🔭 I’m working as full-stack developer
 
 ###
