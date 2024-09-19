@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Giovani</h1>
 
 ## 🧑‍💻 About Me:
-- 🌍 Brazilian, 20 years old
+- 🌍 Brazilian, 21 years old
 - 📘 Studying **Analysis and Systems Development**
 - 💼 Full-stack developer
 - 🚀 Passionate about learning new technologies and solving problems
