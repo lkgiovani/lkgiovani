@@ -55,6 +55,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkgiovani&layout=compact&hide_border=true&title_color=00ffff&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
+
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lkgiovani&bg_color=000000&color=00ffff&line=00ffff&point=00ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
