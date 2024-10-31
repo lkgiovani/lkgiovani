@@ -60,6 +60,8 @@
 
 ---
 
+![snake gif](https://github.com/lkgiovani/lkgiovani/blob/output/github-contribution-grid-snake.svg)
+
 <div align="center">
   <h3>Thank you for visiting! 😁</h3>
   <p>🚀 LkGiovani 🚀</p>
