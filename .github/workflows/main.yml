@@ -27,16 +27,23 @@ jobs:
 
       - name: replace colors in SVG
         run: |
+          # snake
           sed -i 's/#1b1f230a/#1e0d30/g' dist/github-contribution-grid-snake.svg
           sed -i 's/purple/#a4f546/g' dist/github-contribution-grid-snake.svg
+          
+          # Square
           sed -i 's/#161b22/#000000/g' dist/github-contribution-grid-snake.svg
           sed -i 's/#161b22/#1e0d30/g' dist/github-contribution-grid-snake.svg
           sed -i 's/#01311f/#3c1b61/g' dist/github-contribution-grid-snake.svg
           sed -i 's/#034525/#5a2993/g' dist/github-contribution-grid-snake.svg
           sed -i 's/#0f6d31/#7837c4/g' dist/github-contribution-grid-snake.svg
           sed -i 's/#00c647/#9745f5/g' dist/github-contribution-grid-snake.svg
+
+          # snake
           sed -i 's/#1b1f230a/#1e0d30/g' dist/github-contribution-grid-snake-dark.svg
           sed -i 's/purple/#a4f546/g' dist/github-contribution-grid-snake-dark.svg
+
+          # Square
           sed -i 's/#161b22/#000000/g' dist/github-contribution-grid-snake-dark.svg
           sed -i 's/#161b22/#1e0d30/g' dist/github-contribution-grid-snake-dark.svg
           sed -i 's/#01311f/#3c1b61/g' dist/github-contribution-grid-snake-dark.svg
