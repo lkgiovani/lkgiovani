@@ -63,7 +63,7 @@
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lkgiovani/lkgiovani/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lkgiovani/lkgiovani/output/github-contribution-grid-snake-dark.svg">
-  <img height="195px" align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lkgiovani/lkgiovani/output/github-contribution-grid-snake.svg">
+  <img height="195px" align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lkgiovani/lkgiovani/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 <div align="center">
