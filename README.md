@@ -50,21 +50,19 @@
 
 ## 📊 GitHub Stats:
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lkgiovani&show_icons=true&count_private=true&hide_border=true&title_color=9745f5&icon_color=9745f5&text_color=c9d1d9&bg_color=0d1117" alt="Giovani souza github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkgiovani&layout=compact&hide_border=true&title_color=9745f5&text_color=c9d1d9&bg_color=0d1117" />
-</div>
+ ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+  
 
+  
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lkgiovani&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lkgiovani&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lkgiovani&bg_color=000000&color=9745f5&line=9745f5&point=9745f5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+##
+   <div align="center" >
+     <img src="https://github-profile-trophy.vercel.app/?username=isaac545454&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+  </div>
+  
 ---
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lkgiovani/lkgiovani/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lkgiovani/lkgiovani/output/github-contribution-grid-snake-dark.svg">
-  <img height="195px" align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lkgiovani/lkgiovani/output/github-contribution-grid-snake-dark.svg">
-</picture>
 
 <div align="center">
   <h3>Thank you for visiting! 😁</h3>
