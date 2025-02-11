@@ -2,8 +2,7 @@
 
 ## 🧑‍💻 About Me:
 - 🌍 Brazilian, 21 years old
-- 📘 Studying **Analysis and Systems Development**
-- 💼 Full-stack developer
+- 💼 Back-end developer
 - 🚀 Passionate about learning new technologies and solving problems
 
 ---
