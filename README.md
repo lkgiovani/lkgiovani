@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 About Me:
 - 🌍 Brazilian, 21 years old
-- 💼 Back-end developer
+- 💼 Software Engineer
 - 🚀 Passionate about learning new technologies and solving problems
 
 ---
