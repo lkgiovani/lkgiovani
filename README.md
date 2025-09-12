@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Giovani</h1>
 
 ## 🧑‍💻 About Me:
-- 🌍 Brazilian, 21 years old
+- 🌍 Brazilian, 22 years old
 - 💼 Software Engineer
 - 🚀 Passionate about learning new technologies and solving problems
 
