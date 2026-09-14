@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Giovani</h1>
 
 <p align="center">
-  Brazilian • 22 years old • Software Engineer<br/>
+  Brazilian • 23 years old • Software Engineer<br/>
   Backend (Go/Node/Bun) • Distributed Systems • AWS
 </p>
 
